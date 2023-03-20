@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  title: "Kasimo žaidimas"
+  sidebar:
+    logo: "images/Logo.jpg"
+    pinned: true
+    align: center
+
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - section: index.qmd
+        contents: 
+          - Section/optional_section.qmd
+  page-navigation: true
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme.scss]
+      dark: [cosmo, theme-dark.scss]
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+
+freeze: auto
+
+
+
