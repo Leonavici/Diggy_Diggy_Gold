@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Rules to Diggy Diggy Gold",
+    "section": "",
+    "text": "The objective of the game is to aquire more gold than your opponents by digging tunnels, finding gold and carrying it to the Bank"
+  },
+  {
+    "objectID": "index.html#digging",
+    "href": "index.html#digging",
+    "title": "Rules to Diggy Diggy Gold",
+    "section": "Digging",
+    "text": "Digging\nDigging is performed by standing next to a tile which requires diggining. Dig action does not change the position of the miner.\n\nPlacing tiles\nAfter uncovering a new tile, the player who did the digging may rotate the tile however they want as long as the path connects to the tile they‘re standing on. Once the player moves on to the next action or next players turn, the position of the tile becomes final and cannot be changed thereafter.\n\n\nGold\nTiles containing gold are marked by Gold symbol  and a numer 1-4 signifying the amount of gold on that tile. When a tile containing gold has a Dig action performed on it, any gold on that tile, goes to the player that did the digging. If the miners pockets are full, the surplus gold stays on the tile it originated on. i.e. if a dynamite wielding miner is caryying 1 gold in their pocket uncovers a tile with 3 gold on it, 1 gold token is placed in the free pocket slot on that players player matt, the remaining two gold tokens are placed on the tile it originated on.\n\n\nHard rock\nIf a tile is marked with a Hard rock symbol , then a hard rock token has to be placed on that tile along with the amount of gold tokens specified on that tile. As long as the hard rock token is still on the tile it is inaccessible and requires another Dig action to be accesible. The gold on this tile acts the same way as the regular tile after the hard rock marker is removed.\n\n\nVoid\nIf an uncoverd tile is marked with a Void symbol , then additional tiles may be uncovered for free, depending on your role. See under Roles section for specifics."
+  },
+  {
+    "objectID": "index.html#walking",
+    "href": "index.html#walking",
+    "title": "Rules to Diggy Diggy Gold",
+    "section": "Walking",
+    "text": "Walking\nWalking distance for each walking action is determined by a dice roll. The number of dice and the specifics of walking is different for each role. See under Roles section for the specifics. Walking action is interupted by other actions i.e. if you roll 6 but only need to walk 3 steps untill you reach a dig site, then the remaining steps do not carry over to after the dig action. Dropping off your gold in the Bank does not interupt your walking action. Treat the Bank as a protruding tile."
+  },
+  {
+    "objectID": "index.html#special-ability",
+    "href": "index.html#special-ability",
+    "title": "Rules to Diggy Diggy Gold",
+    "section": "Special Ability",
+    "text": "Special Ability\nEach special ability can be performed only once per turn. Each role has a unique ability. See under Roles section for specifics."
+  },
+  {
+    "objectID": "index.html#pickaxe",
+    "href": "index.html#pickaxe",
+    "title": "Rules to Diggy Diggy Gold",
+    "section": "Pickaxe",
+    "text": "Pickaxe\n\nWalking\nThe Pickaxe rolls 4 six sided dice to determine how many tiles they can move.\n\n\nDigging\nOne dig action can affect one adjacent tile at a time. If during a dig action miner with pickaxe uncovers a tile marked with a Void symbol  , they get to immidiately perform another dig action for free as long as it is not interupted by a different action.\n\n\nSpecial ability: Deep dig\nWhile on a tile with a gold symbol and no permanent token on it, the Pickaxe can place a Deep dig token and roll 1 die. If the roll is succseful, then 1 gold is produced on that tile. The Deep dig is succesfull on a roll of 4-6 while in Layer I, 3-6 on Layer II and 2-6 on Layer III. This action cannot be repeated on the same tile.\n\n\nCarrying capacity\nThe Pickaxe can carry up to 1 gold at a time."
+  },
+  {
+    "objectID": "index.html#dynamite",
+    "href": "index.html#dynamite",
+    "title": "Rules to Diggy Diggy Gold",
+    "section": "Dynamite",
+    "text": "Dynamite\n\nWalking\nThe Dynamite rolls 2 six sided dice to determine how many tiles they can move.\n\n\nDigging\nOne dig action affects every adjacent tile. if during a dig action, the Dynamite uncovers a tile maked with a Void symbol  , another tile can be affected as long as it is in a straight line from the Dynamite. The additional tile has to be along the path that had the Void in it. Any gold that can be collected on the aditional tile, goes to the Dynamite.\n\n\nSpecial ability: Collapse\nThe Dynamite can collapse any unoccupied adjacent tile by placing the collapse token on it. The Collapse token can go even on tiles with permanent tokens. The Collapsed token works the same as the Hard rock token..\n\n\nCarrying capacity\nThe Dynamite can carry up to 2 gold at a time."
+  },
+  {
+    "objectID": "index.html#minecart",
+    "href": "index.html#minecart",
+    "title": "Rules to Diggy Diggy Gold",
+    "section": "Minecart",
+    "text": "Minecart\n\nWalking\nThe Minecart rolls 1 six sided die subtracts the number of gold in their pocket (to the minimum of 1) to determine how many moves in a straight line they can make. Any number of tiles that make up a straight path counts as one step. The Minecart has to stop to pick up gold off of the ground, but that does not interupt your walking action.\n\n\nDigging\nOne dig action can affect one adjacent tile at a time. If during a dig action miner with pickaxe uncovers a tile marked with a Void symbol  , they get to immidiately perform another dig action for free as long as it is not interupted by a different action.\n\n\nSpecial ability: Corner rail\nWhile on a tile that with no permanent token on it, the Minecart can place a Corner rail token facing the direction of choise, thus turning one change in direction into a “straight“ line. The mine cart player no longer has to stop on that one corner. This only works for the one corner displayed on the token. The Minecart can still move through that tile regularly in other directions.\n\n\nCarrying capacity\nThe Minecart can carry up to 3 gold at a time."
+  },
+  {
+    "objectID": "index.html#drill",
+    "href": "index.html#drill",
+    "title": "Rules to Diggy Diggy Gold",
+    "section": "Drill",
+    "text": "Drill\n\nWalking\nThe Drill rolls 2 six sided dice to determine how many tiles they can move. ### Digging\nOne dig action can affect one adjacent tile at a time. If during a dig action miner with pickaxe uncovers a tile marked with a Void symbol  , they get to immidiately perform another dig action for free as long as it is not interupted by a different action.\n\n\nSpecial ability: Hole in the wall\nWhile on a tile with no permanent token on it, the Drill can place a Hole-in-a-wall token. This token allows the Drill to move through a single wall. The player can dig through this hole. See Placing tiles section.\n\n\nCarrying capacity\nMiner with a pickaxe can carry up to 2 gold at a time."
+  }
+]
